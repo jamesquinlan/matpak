@@ -18,4 +18,5 @@ MATLAB Version: 9.8.0.1323502 (R2020a)
 * mkdiagdom - makes a random diagonally dominant matrix
 * mkrso - makes a random row sum one matrix
 
+Check back for remains of list...there are many other functions not listed here (yet).  
 
