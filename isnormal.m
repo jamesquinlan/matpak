@@ -4,7 +4,7 @@ function Y = isnormal(A)
 % Definition:  A NORMAL iff A'*A=A*A'
 % 
 % Round-off error considerations:
-% all(A'*A-A*A')
+% all(A'*A-A*A');
 
 % ---------------------------------------- %
 % Quinlan, J.  2018/12/27
