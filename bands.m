@@ -1,5 +1,6 @@
 % BANDS extracts diagonals from A to form a banded matrix
-% 
+% [B,M] = bands(A,v);
+%
 % INPUTS:
 %   A = (m x n) matrix
 %   v = vector of diagonals (default 0 = main diagonal)
