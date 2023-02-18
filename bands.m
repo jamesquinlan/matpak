@@ -17,7 +17,7 @@
 % BANDS is part of MATPAK matrix utility package
 % MIT License
 % (C) 2020 Quinlan, James
-% ----------------------------------------------------------
+% -------------------------------------------------------------------------
 function [B, M] = bands(A,v)
     if nargin < 2
         v = 0;
