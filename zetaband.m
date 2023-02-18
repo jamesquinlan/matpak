@@ -9,6 +9,8 @@
 % OUTPUT:
 %   A = matrix
 %
+% Example: zetaband(4,8) is an 8 x 8 quadra banded matrix
+%
 % See also bands
 
 % BANDS is part of MATPAK matrix utility package
