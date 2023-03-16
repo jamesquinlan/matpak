@@ -30,13 +30,15 @@ function y = varcol(A)
 end
 
 
-% REFERENCE:
-% Curgus, B., & Jewett, R. I. (2015). Somewhat stochastic matrices. 
-%               The American Mathematical Monthly, 122(1), 36-42.
-% ---------------------------------------------------------------- % 
+%{
 
-% BibTeX
-%{ 
+REFERENCE:
+ Curgus, B., & Jewett, R. I. (2015). Somewhat stochastic matrices. 
+               The American Mathematical Monthly, 122(1), 36-42.
+ ---------------------------------------------------------------- 
+
+BibTeX
+
 @article{curgus2015somewhat,
   title={Somewhat stochastic matrices},
   author={{\'C}urgus, Branko and Jewett, Robert I},
@@ -47,4 +49,5 @@ end
   year={2015},
   publisher={Taylor \& Francis}
 }
+
 %}
